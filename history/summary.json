@@ -3,17 +3,17 @@
     "name": "Sydney",
     "url": "https://prod01.sydney.platformos.com/_status",
     "slug": "sydney",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 1625
+    "status": "up",
+    "uptime": "29.97%",
+    "time": 1560
   },
   {
     "name": "Oregon",
     "url": "https://prod01.oregon.platform-os.com/_status",
     "slug": "oregon",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 607
+    "status": "up",
+    "uptime": "29.97%",
+    "time": 591
   },
   {
     "name": "London",
@@ -29,7 +29,7 @@
     "slug": "oregon-staging",
     "status": "up",
     "uptime": "100.00%",
-    "time": 440
+    "time": 442
   },
   {
     "name": "Partner Portal",
@@ -37,6 +37,6 @@
     "slug": "partner-portal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 456
+    "time": 463
   }
 ]
