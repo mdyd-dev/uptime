@@ -15,7 +15,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # baseUrl: /
+  baseUrl: /uptime/
   name: Uptime
   introTitle: "platformOS status page"
   introMessage: "Learn uptime, average response times, ongoing and past incidents"
