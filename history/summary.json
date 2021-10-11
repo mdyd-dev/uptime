@@ -116,19 +116,19 @@
     "url": "https://prod01.london.platform-os.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.london.platform-os.com",
     "slug": "london",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 670,
-    "timeWeek": 523,
-    "timeMonth": 449,
-    "timeYear": 453,
+    "time": 454,
+    "timeDay": 684,
+    "timeWeek": 544,
+    "timeMonth": 458,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-10-11": 0
+      "2021-10-11": 7
     }
   },
   {
