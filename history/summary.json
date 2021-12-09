@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/prod01.sydney.platformos.com",
     "slug": "sydney",
     "status": "up",
-    "uptime": "91.46%",
+    "uptime": "91.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "92.44%",
+    "uptimeYear": "92.71%",
     "time": 905,
-    "timeDay": 851,
-    "timeWeek": 880,
+    "timeDay": 844,
+    "timeWeek": 872,
     "timeMonth": 877,
     "timeYear": 879,
     "dailyMinutesDown": {
@@ -45,8 +45,7 @@
       "2020-12-13": 1440,
       "2020-12-12": 1440,
       "2020-12-11": 1440,
-      "2020-12-10": 1440,
-      "2020-12-09": 1440
+      "2020-12-10": 1440
     }
   },
   {
@@ -55,16 +54,16 @@
     "icon": "https://favicons.githubusercontent.com/prod01.oregon.platform-os.com",
     "slug": "oregon",
     "status": "up",
-    "uptime": "91.47%",
+    "uptime": "91.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "92.45%",
-    "time": 543,
-    "timeDay": 201,
-    "timeWeek": 636,
-    "timeMonth": 833,
-    "timeYear": 538,
+    "uptimeYear": "92.72%",
+    "time": 542,
+    "timeDay": 310,
+    "timeWeek": 348,
+    "timeMonth": 830,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2021-12-01": 7,
       "2021-11-19": 9,
@@ -96,8 +95,7 @@
       "2020-12-13": 1440,
       "2020-12-12": 1440,
       "2020-12-11": 1440,
-      "2020-12-10": 1440,
-      "2020-12-09": 1440
+      "2020-12-10": 1440
     }
   },
   {
@@ -111,10 +109,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 728,
-    "timeWeek": 533,
-    "timeMonth": 523,
+    "time": 458,
+    "timeDay": 639,
+    "timeWeek": 563,
+    "timeMonth": 532,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2021-10-11": 7
@@ -131,10 +129,10 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 383,
-    "timeDay": 145,
-    "timeWeek": 346,
-    "timeMonth": 374,
+    "time": 382,
+    "timeDay": 190,
+    "timeWeek": 316,
+    "timeMonth": 366,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2021-12-04": 7,
@@ -153,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 145,
-    "timeWeek": 418,
-    "timeMonth": 427,
-    "timeYear": 468,
+    "time": 468,
+    "timeDay": 135,
+    "timeWeek": 365,
+    "timeMonth": 415,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   }
 ]
