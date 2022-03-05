@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/prod01.sydney.platformos.com",
     "slug": "sydney",
     "status": "up",
-    "uptime": "93.03%",
+    "uptime": "93.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -28,7 +28,7 @@
     "icon": "https://favicons.githubusercontent.com/prod01.oregon.platform-os.com",
     "slug": "oregon",
     "status": "up",
-    "uptime": "93.03%",
+    "uptime": "93.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
@@ -55,9 +55,9 @@
     "url": "https://prod01.london.platform-os.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.london.platform-os.com",
     "slug": "london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -67,6 +67,7 @@
     "timeMonth": 523,
     "timeYear": 511,
     "dailyMinutesDown": {
+      "2022-03-05": 0,
       "2022-01-26": 21,
       "2021-10-11": 7
     }
